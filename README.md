@@ -1,5 +1,6 @@
 # 안녕하세요!
 
+<br>
 
 ## Self-Introduction:
 저는 이번 학기 오픈소스 소프트웨어 실습을 수강중인 신윤섭입니다.
@@ -30,12 +31,17 @@
 ## Contact:
 저와 연락을 취하고 싶으시면 다음과 같은 방법이 있습니다.
 
+<br>
 
 > 이메일: 
 > dlgksmf5577@naver.com로 이메일을 보내세요.
 
+<br>
+
 > Github 링크: 
-> https://github.com/yunseobking에 접속하세요.
+> https://github.com/yunseobking 에 접속하세요.
+
+<br>
 
 > 보호자:
 > 부산에 사는 신동명은 저의 아버지입니다. 
